@@ -1,1 +1,2 @@
 print("nidhi")
+print("kriti")
